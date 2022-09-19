@@ -168,3 +168,7 @@ package.json
 package-lock.json
 
 requirements.txt
+# envfile that describes your deployment account and region
+envfile
+# CDK context json, which describes *your* account's resources
+cdk.context.json
